@@ -1,0 +1,4 @@
+delivery_status,total_reviews,avg_review_score,percent_of_reviews
+"Not Delivered",357,1.70,2.34
+Delayed,1249,2.58,8.18
+"On Time",13660,4.13,89.48

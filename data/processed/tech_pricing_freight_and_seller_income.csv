@@ -1,0 +1,6 @@
+price_tier,num_products,percent_tech_sales,revenue_in_K,avg_freight_cost,min_freight_cost,max_freight_cost,avg_mnthly_income_tech_sellers
+"budget essentials",8897,0.52,237,14.83,0.01,112.43,35.97
+"standard accessories",5504,0.32,539,18.93,0.09,121.22,73.6
+"mid-range tech",2303,0.13,552,21.44,0.37,127.82,103.22
+"premium hardware",359,0.02,254,37.92,11.34,157.27,142.94
+"ultra-premium tech",208,0.01,321,41.7,0.21,193.21,321.01

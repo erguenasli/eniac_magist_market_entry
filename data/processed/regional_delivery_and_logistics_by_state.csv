@@ -1,0 +1,29 @@
+customer_state,postal_region,total_orders,avg_delivery_days,percent_delayed,avg_days_late,avg_review
+AC,"6xxxx: North & Upper NE",17,24,0.06,24,4.3
+AL,"5xxxx: Northeast (PE, AL, PB, RN)",86,25,0.24,12,3.9
+AM,"6xxxx: North & Upper NE",34,27,0.03,2,4.0
+AP,"6xxxx: North & Upper NE",17,24,0.00,NULL,4.3
+BA,"4xxxx: Bahia & Sergipe",607,18,0.12,9,3.8
+CE,"6xxxx: North & Upper NE",235,21,0.15,16,3.9
+DF,"7xxxx: Central-West & DF",313,13,0.04,8,4.0
+ES,"2xxxx: RJ & ES",358,16,0.10,10,3.8
+GO,"7xxxx: Central-West & DF",287,15,0.06,10,4.0
+MA,"6xxxx: North & Upper NE",146,20,0.14,9,3.6
+MG,"3xxxx: Minas Gerais",1756,12,0.05,7,4.0
+MS,"7xxxx: Central-West & DF",109,14,0.08,5,4.4
+MT,"7xxxx: Central-West & DF",140,18,0.06,6,3.7
+PA,"6xxxx: North & Upper NE",203,25,0.12,17,3.7
+PB,"5xxxx: Northeast (PE, AL, PB, RN)",93,20,0.12,11,4.1
+PE,"5xxxx: Northeast (PE, AL, PB, RN)",292,19,0.10,14,4.1
+PI,"6xxxx: North & Upper NE",106,18,0.11,8,4.1
+PR,"8xxxx: South (PR & SC)",789,12,0.04,6,4.0
+RJ,"2xxxx: RJ & ES",1834,16,0.13,12,3.9
+RN,"5xxxx: Northeast (PE, AL, PB, RN)",67,19,0.07,12,4.0
+RO,"7xxxx: Central-West & DF",43,21,0.05,7,4.1
+RR,"6xxxx: North & Upper NE",10,24,0.00,NULL,4.3
+RS,"9xxxx: South (RS)",887,15,0.05,16,4.1
+SC,"8xxxx: South (PR & SC)",586,16,0.11,8,3.9
+SE,"4xxxx: Bahia & Sergipe",77,18,0.10,7,4.0
+SP,"0xxxx: Greater São Paulo",3281,8,0.03,7,4.1
+SP,"1xxxx: SP Interior / Coast",2478,10,0.05,6,4.1
+TO,"7xxxx: Central-West & DF",51,18,0.14,6,4.1
