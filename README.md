@@ -1,6 +1,7 @@
 # Brazilian E-Commerce Market Entry Feasibility Study
 ## Strategic Assessment & Logistics Risk Analysis of Magist for ENIAC
-**Author:** Team Electricity (Data Analytics & BI Strategy Consulting)<br>
+**Team:** Data Analytics & BI Strategy Consulting <br>
+**Authors:** [Asli Ergün](https://github.com/erguenasli), [Catalina Mayer](https://github.com/catalinavalenciamayer) and [Sweta Khandelwal](https://github.com/Sweta-Khandelwal) <br>
 **Deliverables:** [Executive Presentation (PDF)](presentation/market_entry_strategy.pdf) | [Executive Briefing Memo (PDF)](docs/market_entry_feasibility_assessment_magist.pdf) | [Master SQL Script](sql/magist_deep_data_analysis.sql) | [Tableau Workbooks](tableau/)
 
 ---
